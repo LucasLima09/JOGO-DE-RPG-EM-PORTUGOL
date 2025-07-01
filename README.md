@@ -1,4 +1,5 @@
 ELDORIA A JORNADA EM BUSCA DA LUZ
+
 A Jornada consiste em um jogo de RPG por turnos desenvolvido em Portugol Studio, onde o jogador assume o papel de um herói destinado a restaurar a luz no Reino de Eldoria, enfrentando inimigos cada vez mais perigosos em cinco regiões distintas até o confronto final contra o Devastador.
 
 Sobre o jogo
@@ -17,13 +18,9 @@ Fase final com transformação de chefe e encerramento narrativo
 
 Regiões exploradas
 Floresta da Névoa
-
 Vila Abandonada
-
 Caverna Sombria
-
 Pântano dos Lamentos
-
 Castelo Dourado
 
 Como executar
