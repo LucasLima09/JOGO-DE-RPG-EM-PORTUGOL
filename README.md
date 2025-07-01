@@ -17,10 +17,15 @@ Sistema de moedas para utilizar na loja
 Fase final com transformação de chefe e encerramento narrativo
 
 Regiões exploradas
+
 Floresta da Névoa
+
 Vila Abandonada
+
 Caverna Sombria
+
 Pântano dos Lamentos
+
 Castelo Dourado
 
 Como executar
